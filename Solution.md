@@ -26,7 +26,8 @@ user    0m8.252s
 sys     0m0.407s
 
 Observation - 
-The execution time for 2-Node  vs 4-Node Clusters is almost similar. There is not a huge difference.
+1. More output files are generated after execution via 4 node cluster that 2 node cluster.
+2. The execution time for 2-Node  vs 4-Node Clusters is almost similar. There is not a huge difference.
 
 
 
