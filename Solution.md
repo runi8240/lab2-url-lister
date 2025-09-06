@@ -27,7 +27,7 @@ sys     0m0.407s
 
 Observation - 
 1. More output files are generated after execution via 4 node cluster that 2 node cluster.
-2. The execution time for 2-Node  vs 4-Node Clusters is almost similar. There is not a huge difference.
+2. The execution time for 2-Node  vs 4-Node Clusters is almost similar. There is not a huge difference. This might be due to the size of dataset we are using as input to the application. Even though in second scenario, we have increased the worker nodes to 4, Hadoop will only create map tasks as per the requirement. In this case, it might only need 2 map tasks. Hence, we see the real time for execution is almost same.
 
 
 
