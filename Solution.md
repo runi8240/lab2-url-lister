@@ -8,6 +8,7 @@ Using the Java Version
 3. To get the output in the desired format, we are removing the first 5 characters from the string. Before the output was 'href="/wiki/ISBN_(identifier)	18' and after removal of first 5 characters it is 'wiki/ISBN_(identifier)	18'
 
 2 - Node Cluster Execution
+
 ![alt text](image.png)
 
 Timimg - 
@@ -16,6 +17,7 @@ user    0m10.183s
 sys     0m0.533s
 
 4 - Node Cluster Execution
+
 ![alt text](image-1.png)
 
 Timimg - 
